@@ -3,7 +3,7 @@ entries:
   chart1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-26T08:19:20.429253697Z"
+    created: "2024-10-26T08:29:37.885585485Z"
     description: A Helm chart for Kubernetes
     digest: a473318cc6944452068468aeb5ca2eeb93d4901c43bd6dda56f48a4ba0f6ef6a
     name: chart1
@@ -14,7 +14,7 @@ entries:
   kamal:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-26T08:19:20.429638493Z"
+    created: "2024-10-26T08:29:37.88612731Z"
     description: A Helm chart for Kubernetes
     digest: dcb2f57db414d9711a8425fa2ea92da203869ecd442366343ad1bcf96e0b3369
     name: kamal
@@ -24,8 +24,18 @@ entries:
     version: 0.1.0
   kishore:
   - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2024-10-26T08:29:37.886843716Z"
+    description: A Helm chart for Kubernetes
+    digest: 3b3d822e30848c31ed77de3fe9e79af5921b371c11ef23a1e635aaea42cdfcba
+    name: kishore
+    type: application
+    urls:
+    - kishore-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-26T08:19:20.430117028Z"
+    created: "2024-10-26T08:29:37.886483811Z"
     description: A Helm chart for Kubernetes
     digest: f895b51224d9f9a7246ca5b07397b3f149e7eb7a297ecc7d93adbb3c335cd5bf
     name: kishore
@@ -33,4 +43,4 @@ entries:
     urls:
     - kishore-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-26T08:19:20.427943826Z"
+generated: "2024-10-26T08:29:37.883034277Z"
